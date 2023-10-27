@@ -1,0 +1,16 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-2.234597, 53.466843]
+        },
+        "properties": {
+          "title": "University of Manchester",
+          "description": "Click on marker to show me!"
+        }
+      }
+    ]
+}
